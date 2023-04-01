@@ -5,40 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <título>Curriculum Vitae</title>
-<estilo>
-    cuerpo {
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    }
-    p {
-        color: negro;
-        alineación de texto: inicio;
-    }
-    h1 {
-        color: negro;
-        alineación de texto: centro;
-        fondo-color: gris;
-        estilo borde: cresta;
-        Margen: 50px;
-    }
-    h2 {
-       color: negro;
-       alineación de texto: inicio;
-    }
-    h3 {
-       color: negro;
-       alineación de texto: inicio;
-       Altura: 2px;
-    }
-    h4 {
-       color: negro;
-       alineación de texto: inicio;
-    }
-    h5 {
-       color: negro;
-       alineación de texto: justificar;
-       Altura: 2px;
-    }
-</estilo>
 </cabeza>
 <cuerpo> 
     <!--No pude hacer una carpeta de CSS aparte para realizar
