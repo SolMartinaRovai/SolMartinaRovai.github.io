@@ -51,9 +51,6 @@
         <Div>
         </div> <h1>Curriculum Vitae</h1>
         <Div>
-            <img src="C:\Users\marti\OneDrive\Imágenes\6a5de15d71298e14cf284a3d7868d851.jpg" style="width:100px" alt="Imagen"> 
-        </Div>
-        <Div>
               <h2>Carla Aguilar</h2>
         </Div>
         <Div>
